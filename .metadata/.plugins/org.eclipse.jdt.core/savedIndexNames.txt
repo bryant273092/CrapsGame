@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Bryant Hernandez\ICS 45J Craps\.metadata\.plugins\org.eclipse.jdt.core
